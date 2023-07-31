@@ -1,0 +1,3 @@
+FROM dockerhub/bitnami/codeigniter:3
+ENV CODEIGNITER_PROJECT_NAME=app
+COPY app /app/app

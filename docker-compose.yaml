@@ -1,0 +1,19 @@
+version: '2'
+services:
+  app:
+    build:
+      context: ./
+      dockerfile: Dockerfile.local
+  #  environment:
+  #    - db_name=bitnami_app
+  #    - db_username=root
+  #    - db_password=""
+  #    - db_host=mariadb
+    ports:
+      - '8000'
+  #  depends_on:
+  #    - mariadb
+  #mariadb:
+  #  image: docker.io/bitnami/mariadb:10.3
+  #  environment:
+  #    - ALLOW_EMPTY_PASSWORD=yes
