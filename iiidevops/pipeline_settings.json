@@ -1,6 +1,6 @@
 {
   "name": "PHP-CodeIgniter",
-  "description": "Codelgniter 3 <a class='el-link el-link--primary' href='https://github.com/iiidevops-templates/php-codelgniter-simple/blob/master/README.md' target='_blank'>simple web 範本說明</a><hr /><ul><li><strong>v2.0</strong>:更新CI自動化腳本</li></ul>",
+  "description": "Codelgniter 3 <a class='el-link el-link--primary' href='https://github.com/iiidevops-v2-templates/ci-php-codelgniter-simple/blob/master/README.md' target='_blank'>simple web 範本說明</a><hr /><ul><li><strong>v2.0</strong>:更新CI自動化腳本</li></ul>",
   "arguments": [
   ]
 }

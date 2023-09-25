@@ -7,7 +7,7 @@ stages:
 
 include:
   - project: 'iiidevops-templates/ci-template'
-    ref: 'v2.0.0'
+    ref: 'v2.1.1'
     file: 'ci/template.gitlab-ci.yml'
 
 Test--SonarQube source code scan:
