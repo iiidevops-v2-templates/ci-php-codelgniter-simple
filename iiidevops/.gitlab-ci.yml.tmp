@@ -6,7 +6,7 @@ stages:
 - test
 include:
 - project: iiidevops-templates/ci-template
-  ref: v2.5.5
+  ref: v2.6.0
   file: ci/template.gitlab-ci.yml
 Test--SonarQube source code scan:
   variables:
